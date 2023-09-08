@@ -1,0 +1,23 @@
+{
+  "name": "file-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinsbgithub/file-watcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinsbgithub/file-watcher/issues"
+  },
+  "homepage": "https://github.com/sachinsbgithub/file-watcher#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}
