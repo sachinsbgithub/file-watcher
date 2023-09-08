@@ -1,5 +1,8 @@
 # file-watcher
+
+## Project setup
+```
 npm install
-
-
-change the folder path to your folder path
+```
+### Customize configuration
+Add the folder path of your system that you want monitor.
